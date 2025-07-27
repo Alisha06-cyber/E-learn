@@ -9,7 +9,7 @@
 		<version>3.2.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.durgasoft</groupId>
+	<groupId>com.durgasofts</groupId>
 	<artifactId>weshopify-user-management_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
