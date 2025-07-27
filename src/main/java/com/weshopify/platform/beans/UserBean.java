@@ -1,5 +1,5 @@
 package com.weshopify.platform.beans;
-
+//hi
 import java.io.Serializable;
 
 import jakarta.validation.constraints.Digits;
